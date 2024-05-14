@@ -1,4 +1,4 @@
-<h3>This project is for educational purpose only. This is a Restaurant Theme Website designed by using html, css, php and mysql. It’s not a complete full stack project, aiming to provide an intuitive user experience across various devices.The website will incorporate responsive design principles to ensure optimal viewing and interaction across desktops, tablets, and smartphones.The primary objective of this project is to create a visually appealing and user-friendly website that effectively showcases the restaurant's menu, location, contact information, and potentially offers online reservation or ordering functionalities. The website's responsive design will enable seameless navigation and access to content regardless of the user's device.</h3>
+<h4>This project is for educational purpose only. This is a Restaurant Theme Website designed by using html, css, php and mysql. It’s not a complete full stack project, aiming to provide an intuitive user experience across various devices.The website will incorporate responsive design principles to ensure optimal viewing and interaction across desktops, tablets, and smartphones.The primary objective of this project is to create a visually appealing and user-friendly website that effectively showcases the restaurant's menu, location, contact information, and potentially offers online reservation or ordering functionalities. The website's responsive design will enable seameless navigation and access to content regardless of the user's device.</h4>
 
 
 <h1>Technologies Used:</h1>
@@ -54,9 +54,9 @@
 
 
 
-   <h1>Supervisor Information:</h1>
-                                                               
-                                                              Name: A. K. Z Rasel Rahman
-                                                  Email: rasel1716@cseku.ac.bd, rasel@nwu.ac.bd (off.)
-                                                 Lecturer, Department of Computer science & engineering 
-                                                           North western University, Khulna.
+<h1>Supervisor Information:</h1>                                                         
+   <h3>A. K. Z Rasel Rahman</h3>
+   mail: rasel1716@cseku.ac.bd, rasel@nwu.ac.bd (off.)<br>
+   Lecturer, Department of Computer science & engineering <br>
+   North western University, Khulna.
+   
